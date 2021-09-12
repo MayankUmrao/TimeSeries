@@ -1,5 +1,7 @@
 # TimeSeries
 Time Series Forecasting of Carbon Dioxide Emissions by Electricity Generation in USA.
+
+
 •	Predicted Co2 Emissions in USA for next 6 months using time series techniques. 
 •	Performed Exploratory Data Analysis (EDA) to identify Seasonality, Trend and Stationarity in data.
 •	Statistically tested for stationarity, trend and seasonality using ADF-test, KPSS-test & Decompose Plot. 
